@@ -17,10 +17,19 @@
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=F2CE99" alt="GitHub" title="GitHub" />
 </a>
 <a href="https://yassinegrairi.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=F2CE99" alt="Portfolio" title="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=globe&logoColor=F2CE99" alt="Portfolio" title="Portfolio" />
 </a>
 <a href="https://github.com/yass-gr?tab=repositories">
   <img src="https://img.shields.io/badge/Explore_My_Work-0D1117?style=for-the-badge&logo=githubactions&logoColor=F2CE99" alt="Explore my repositories" title="Explore my repositories" />
+</a>
+<a href="https://wa.me/212693924896">
+  <img src="https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=F2CE99" alt="WhatsApp" title="WhatsApp" />
+</a>
+<a href="https://linkedin.com/in/yassin-grairii">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F2CE99" alt="LinkedIn" title="LinkedIn" />
+</a>
+<a href="https://discord.com/users/yassinegr99">
+  <img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=F2CE99" alt="Discord" title="Discord" />
 </a>
 
 <br /><br />
@@ -200,15 +209,18 @@ I'm always happy to meet builders, exchange ideas, and explore opportunities.
   <img src="https://img.shields.io/badge/Follow_on_GitHub-F2CE99?style=for-the-badge&logo=github&logoColor=0D1117" alt="Follow on GitHub" title="Follow on GitHub" />
 </a>
 <a href="https://yassinegrairi.vercel.app">
-  <img src="https://img.shields.io/badge/Visit_my_Portfolio-F2CE99?style=for-the-badge&logo=vercel&logoColor=0D1117" alt="Visit my portfolio" title="Visit my portfolio" />
+  <img src="https://img.shields.io/badge/Visit_my_Portfolio-F2CE99?style=for-the-badge&logo=globe&logoColor=0D1117" alt="Visit my portfolio" title="Visit my portfolio" />
+</a>
+<a href="https://wa.me/212693924896">
+  <img src="https://img.shields.io/badge/WhatsApp-F2CE99?style=for-the-badge&logo=whatsapp&logoColor=0D1117" alt="WhatsApp" title="WhatsApp" />
+</a>
+<a href="https://linkedin.com/in/yassin-grairii">
+  <img src="https://img.shields.io/badge/LinkedIn-F2CE99?style=for-the-badge&logo=linkedin&logoColor=0D1117" alt="LinkedIn" title="LinkedIn" />
+</a>
+<a href="https://discord.com/users/yassinegr99">
+  <img src="https://img.shields.io/badge/Discord-F2CE99?style=for-the-badge&logo=discord&logoColor=0D1117" alt="Discord" title="Discord" />
 </a>
 
 <br /><br />
-
-<sub>Thanks for stopping by. If something here sparks an idea, let's build it.</sub>
-
-<br />
-
-<h3>✦</h3>
 
 </div>
