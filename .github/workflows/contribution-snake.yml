@@ -23,7 +23,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg?color_snake=%23F2CE99&color_dots=%23EBEDF0,%23E8D5B8,%23DDBF8A,%23C9A66B,%23B8914A
-            dist/github-contribution-grid-snake-dark.svg?color_snake=%23F2CE99&color_dots=%23161B22,%232D8B3F,%234CAF50,%238BC34A,%23F2CE99
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23F2CE99
 
       - name: Publish animations to the output branch
         uses: peaceiris/actions-gh-pages@v4
