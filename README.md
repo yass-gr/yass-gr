@@ -57,9 +57,9 @@ open_to:
 <h3>Core languages</h3>
 
 <img src="https://skillicons.dev/icons?i=js,ts,php,python&theme=dark" alt="JavaScript, TypeScript, PHP and Python" title="JavaScript, TypeScript, PHP and Python" />
-<span style="display:inline-block;background:#0D1117;border-radius:8px;padding:8px;line-height:0"><img src="https://api.iconify.design/mdi/database.svg?color=%23F2CE99" height="32" alt="SQL" title="SQL" /></span>
-<span style="display:inline-block;background:#0D1117;border-radius:8px;padding:8px;line-height:0"><img src="https://cdn.simpleicons.org/html5" height="32" alt="HTML5" title="HTML5" /></span>
-<span style="display:inline-block;background:#0D1117;border-radius:8px;padding:8px;line-height:0"><img src="https://cdn.simpleicons.org/css" height="32" alt="CSS3" title="CSS3" /></span>
+<img src="https://api.iconify.design/mdi/database.svg?color=%23F2CE99" height="48" alt="SQL" title="SQL" />
+<img src="https://cdn.simpleicons.org/html5" height="48" alt="HTML5" title="HTML5" />
+<img src="https://cdn.simpleicons.org/css" height="48" alt="CSS3" title="CSS3" />
 
 <br />
 
@@ -68,7 +68,7 @@ open_to:
 <h3>Frontend</h3>
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,jquery,jest,vitest&theme=dark" alt="React, Next.js, Tailwind, Bootstrap, jQuery, Jest and Vitest" title="React, Next.js, Tailwind, Bootstrap, jQuery, Jest and Vitest" />
-<span style="display:inline-block;background:#0D1117;border-radius:8px;padding:8px;line-height:0"><img src="https://cdn.simpleicons.org/ejs" height="32" alt="EJS" title="EJS" /></span>
+<img src="https://cdn.simpleicons.org/ejs" height="48" alt="EJS" title="EJS" />
 <br />
 
 <img src="https://img.shields.io/badge/Web_Frontend-0D1117?style=flat-square&logo=react&logoColor=F2CE99" alt="Web Frontend" title="Web Frontend" />
@@ -92,7 +92,7 @@ open_to:
 <h3>Design / Creative</h3>
 
 <img src="https://skillicons.dev/icons?i=figma,photoshop,pr&theme=dark" alt="Figma, Photoshop and Premiere Pro" title="Figma, Photoshop and Premiere Pro" />
-<span style="display:inline-block;background:#0D1117;border-radius:8px;padding:8px;line-height:0"><img src="https://cdn.simpleicons.org/davinciresolve" height="32" alt="DaVinci Resolve" title="DaVinci Resolve" /></span>
+<img src="https://cdn.simpleicons.org/davinciresolve" height="48" alt="DaVinci Resolve" title="DaVinci Resolve" />
 
 <br />
 
@@ -103,10 +103,10 @@ open_to:
 <h3>Tools & workflow</h3>
 
 <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,postman,linux&theme=dark" alt="Git, GitHub, Vercel, VS Code, Postman and Linux" title="Git, GitHub, Vercel, VS Code, Postman and Linux" />
-<span style="display:inline-block;background:#0D1117;border-radius:8px;padding:8px;line-height:0"><img src="https://cdn.simpleicons.org/apache" height="32" alt="Apache" title="Apache" /></span>
-<span style="display:inline-block;background:#0D1117;border-radius:8px;padding:8px;line-height:0"><img src="https://cdn.simpleicons.org/claude" height="32" alt="Claude" title="Claude" /></span>
-<span style="display:inline-block;background:#0D1117;border-radius:8px;padding:8px;line-height:0"><img src="https://cdn.simpleicons.org/opencode" height="32" alt="OpenCode" title="OpenCode" /></span>
-<span style="display:inline-block;background:#0D1117;border-radius:8px;padding:8px;line-height:0"><img src="https://cdn.simpleicons.org/ffmpeg" height="32" alt="FFmpeg" title="FFmpeg" /></span>
+<img src="https://cdn.simpleicons.org/apache" height="48" alt="Apache" title="Apache" />
+<img src="https://cdn.simpleicons.org/claude" height="48" alt="Claude" title="Claude" />
+<img src="https://cdn.simpleicons.org/opencode" height="48" alt="OpenCode" title="OpenCode" />
+<img src="https://cdn.simpleicons.org/ffmpeg" height="48" alt="FFmpeg" title="FFmpeg" />
 <img src="https://img.shields.io/badge/OpenClaw-0D1117?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDY0IDY0Ij48dGV4dCB4PSI1MCUiIHk9IjUwJSIgZG9taW5hbnQtYmFzZWxpbmU9ImNlbnRyYWwiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiNGMkNFOTkiIGZvbnQtc2l6ZT0iNDgiIGZvbnQtZmFtaWx5PSJzYW5zLXNlcmlmIj5PQzwvdGV4dD48L3N2Zz4=&logoColor=F2CE99" alt="OpenClaw" title="OpenClaw" />
 
 <br />
