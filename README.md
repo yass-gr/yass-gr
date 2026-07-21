@@ -56,10 +56,7 @@ open_to:
 
 <h3>Core languages</h3>
 
-<img src="https://skillicons.dev/icons?i=js,ts,php,python&theme=dark" alt="JavaScript, TypeScript, PHP and Python" title="JavaScript, TypeScript, PHP and Python" />
-<img src="https://api.iconify.design/mdi/database.svg?color=%23F2CE99" height="48" style="background:#0D1117;border-radius:8px;padding:8px" alt="SQL" title="SQL" />
-<img src="https://cdn.simpleicons.org/html5" height="48" style="background:#0D1117;border-radius:8px;padding:8px" alt="HTML5" title="HTML5" />
-<img src="https://cdn.simpleicons.org/css" height="48" style="background:#0D1117;border-radius:8px;padding:8px" alt="CSS3" title="CSS3" />
+<img src="https://skillicons.dev/icons?i=js,ts,php,python,sql,html5,css3&theme=dark" alt="JavaScript, TypeScript, PHP, Python, SQL, HTML5 and CSS3" title="JavaScript, TypeScript, PHP, Python, SQL, HTML5 and CSS3" />
 
 <br />
 
@@ -67,9 +64,7 @@ open_to:
 
 <h3>Frontend</h3>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,jquery,jest&theme=dark" alt="React, Next.js, Tailwind, Bootstrap, jQuery and Jest" title="React, Next.js, Tailwind, Bootstrap, jQuery and Jest" />
-<img src="https://cdn.simpleicons.org/ejs" height="48" style="background:#0D1117;border-radius:8px;padding:8px" alt="EJS" title="EJS" />
-<img src="https://cdn.simpleicons.org/vitest" height="48" style="background:#0D1117;border-radius:8px;padding:8px" alt="Vitest" title="Vitest" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,jquery,jest,ejs,vitest&theme=dark" alt="React, Next.js, Tailwind, Bootstrap, jQuery, Jest, EJS and Vitest" title="React, Next.js, Tailwind, Bootstrap, jQuery, Jest, EJS and Vitest" />
 <br />
 
 <img src="https://img.shields.io/badge/Web_Frontend-0D1117?style=flat-square&logo=react&logoColor=F2CE99" alt="Web Frontend" title="Web Frontend" />
@@ -81,8 +76,7 @@ open_to:
 
 <h3>Backend</h3>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,postgres,sqlite&theme=dark" alt="Node.js, Express, PHP, PostgreSQL and SQLite" title="Node.js, Express, PHP, PostgreSQL and SQLite" />
-<img src="https://cdn.simpleicons.org/mysql" height="48" style="background:#0D1117;border-radius:8px;padding:8px" alt="MySQL" title="MySQL" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,postgres,sqlite,mysql&theme=dark" alt="Node.js, Express, PHP, PostgreSQL, SQLite and MySQL" title="Node.js, Express, PHP, PostgreSQL, SQLite and MySQL" />
 
 <br />
 
@@ -93,8 +87,7 @@ open_to:
 
 <h3>Design / Creative</h3>
 
-<img src="https://skillicons.dev/icons?i=figma,photoshop,pr&theme=dark" alt="Figma, Photoshop and Premiere Pro" title="Figma, Photoshop and Premiere Pro" />
-<img src="https://cdn.simpleicons.org/davinciresolve" height="48" style="background:#0D1117;border-radius:8px;padding:8px" alt="DaVinci Resolve" title="DaVinci Resolve" />
+<img src="https://skillicons.dev/icons?i=figma,photoshop,pr,davinciresolve&theme=dark" alt="Figma, Photoshop, Premiere Pro and DaVinci Resolve" title="Figma, Photoshop, Premiere Pro and DaVinci Resolve" />
 
 <br />
 
