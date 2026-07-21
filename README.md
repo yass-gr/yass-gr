@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./assets/banner.gif" width="100%" alt="coding banner" />
+<img src="./assets/banner.gif" width="100%" alt="coding banner" title="coding banner" />
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2600&pause=900&color=F2CE99&center=true&vCenter=true&width=850&lines=Hey%2C+I%27m+Yassine+Grairi;Full-stack+dev+from+Morocco+%F0%9F%87%B2%F0%9F%87%A6;JS+ecosystem+%2B+design+background;Building+clean%2C+performant+software;I+like+code+that+feels+right" alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2600&pause=900&color=F2CE99&center=true&vCenter=true&width=850&lines=Hey%2C+I%27m+Yassine+Grairi;Full-stack+dev+from+Morocco+%F0%9F%87%B2%F0%9F%87%A6;JS+ecosystem+%2B+design+background;Building+clean%2C+performant+software;I+like+code+that+feels+right" alt="Animated introduction" title="Animated introduction" />
 
 <h3>Building things for the web. One component at a time.</h3>
 
@@ -14,13 +14,13 @@
 </p>
 
 <a href="https://github.com/yass-gr">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=F2CE99" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=F2CE99" alt="GitHub" title="GitHub" />
 </a>
 <a href="https://yassinegrairi.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=F2CE99" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=F2CE99" alt="Portfolio" title="Portfolio" />
 </a>
 <a href="https://github.com/yass-gr?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore_My_Work-0D1117?style=for-the-badge&logo=githubactions&logoColor=F2CE99" alt="Explore my repositories" />
+  <img src="https://img.shields.io/badge/Explore_My_Work-0D1117?style=for-the-badge&logo=githubactions&logoColor=F2CE99" alt="Explore my repositories" title="Explore my repositories" />
 </a>
 
 <br /><br />
@@ -56,7 +56,7 @@ open_to:
 
 <h3>Core languages</h3>
 
-<img src="https://skillicons.dev/icons?i=js,ts,php,html,css,python,mysql&theme=dark" alt="JavaScript, TypeScript, PHP, HTML, CSS and Python" />
+<img src="https://skillicons.dev/icons?i=js,ts,php,html,css,python,mysql&theme=dark" alt="JavaScript, TypeScript, PHP, HTML, CSS and Python" title="JavaScript, TypeScript, PHP, HTML, CSS and Python" />
 
 <br />
 
@@ -64,49 +64,49 @@ open_to:
 
 <h3>Frontend</h3>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ejs,bootstrap,jquery,jest,vitest&theme=dark" alt="React, Next.js, Tailwind, EJS, Bootstrap, jQuery, Jest and Vitest" />
-<img src="https://cdn.simpleicons.org/testinglibrary" height="48" alt="React Testing Library" />
-<img src="https://cdn.simpleicons.org/gsap" height="48" alt="GSAP" />
-<img src="https://cdn.simpleicons.org/framer" height="48" alt="Framer Motion" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ejs,bootstrap,jquery,jest,vitest&theme=dark" alt="React, Next.js, Tailwind, EJS, Bootstrap, jQuery, Jest and Vitest" title="React, Next.js, Tailwind, EJS, Bootstrap, jQuery, Jest and Vitest" />
+<img src="https://cdn.simpleicons.org/testinglibrary" height="48" alt="React Testing Library" title="React Testing Library" />
+<img src="https://cdn.simpleicons.org/gsap" height="48" alt="GSAP" title="GSAP" />
+<img src="https://cdn.simpleicons.org/framer" height="48" alt="Framer Motion" title="Framer Motion" />
 
 <br />
 
-<img src="https://img.shields.io/badge/React_Testing_Library-0D1117?style=flat-square&logo=testinglibrary&logoColor=F2CE99" alt="React Testing Library" />
-<img src="https://img.shields.io/badge/GSAP-0D1117?style=flat-square&logo=gsap&logoColor=F2CE99" alt="GSAP" />
-<img src="https://img.shields.io/badge/Framer_Motion-0D1117?style=flat-square&logo=framer&logoColor=F2CE99" alt="Framer Motion" />
+<img src="https://img.shields.io/badge/React_Testing_Library-0D1117?style=flat-square&logo=testinglibrary&logoColor=F2CE99" alt="React Testing Library" title="React Testing Library" />
+<img src="https://img.shields.io/badge/GSAP-0D1117?style=flat-square&logo=gsap&logoColor=F2CE99" alt="GSAP" title="GSAP" />
+<img src="https://img.shields.io/badge/Framer_Motion-0D1117?style=flat-square&logo=framer&logoColor=F2CE99" alt="Framer Motion" title="Framer Motion" />
 
 <br />
 
-<img src="https://img.shields.io/badge/Responsive_Design-0D1117?style=flat-square&logo=css3&logoColor=F2CE99" alt="Responsive Design" />
-<img src="https://img.shields.io/badge/UI_Design-0D1117?style=flat-square&logo=figma&logoColor=F2CE99" alt="UI Design" />
+<img src="https://img.shields.io/badge/Responsive_Design-0D1117?style=flat-square&logo=css3&logoColor=F2CE99" alt="Responsive Design" title="Responsive Design" />
+<img src="https://img.shields.io/badge/UI_Design-0D1117?style=flat-square&logo=figma&logoColor=F2CE99" alt="UI Design" title="UI Design" />
 
 <h3>Backend</h3>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,postgres,mongodb&theme=dark" alt="Node.js, Express, PHP, MySQL, PostgreSQL and MongoDB" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,postgres,mongodb&theme=dark" alt="Node.js, Express, PHP, MySQL, PostgreSQL and MongoDB" title="Node.js, Express, PHP, MySQL, PostgreSQL and MongoDB" />
 
 <br />
 
-<img src="https://img.shields.io/badge/REST_APIs-0D1117?style=flat-square&logo=fastapi&logoColor=F2CE99" alt="REST APIs" />
-<img src="https://img.shields.io/badge/Authentication_%26_Authorization-0D1117?style=flat-square&logo=auth0&logoColor=F2CE99" alt="Authentication and Authorization" />
-<img src="https://img.shields.io/badge/CRUD-0D1117?style=flat-square&logo=databricks&logoColor=F2CE99" alt="CRUD operations" />
+<img src="https://img.shields.io/badge/REST_APIs-0D1117?style=flat-square&logo=fastapi&logoColor=F2CE99" alt="REST APIs" title="REST APIs" />
+<img src="https://img.shields.io/badge/Authentication_%26_Authorization-0D1117?style=flat-square&logo=auth0&logoColor=F2CE99" alt="Authentication and Authorization" title="Authentication and Authorization" />
+<img src="https://img.shields.io/badge/CRUD-0D1117?style=flat-square&logo=databricks&logoColor=F2CE99" alt="CRUD operations" title="CRUD operations" />
 
 <h3>AI & Agentic workflows</h3>
 
-<img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python" />
+<img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python" title="Python" />
 
 <br />
 
-<img src="https://img.shields.io/badge/Agentic_Workflows-0D1117?style=flat-square&logo=openai&logoColor=F2CE99" alt="Agentic Workflows" />
-<img src="https://img.shields.io/badge/AI_Integration-0D1117?style=flat-square&logo=googlegemini&logoColor=F2CE99" alt="AI Integration" />
+<img src="https://img.shields.io/badge/Agentic_Workflows-0D1117?style=flat-square&logo=openai&logoColor=F2CE99" alt="Agentic Workflows" title="Agentic Workflows" />
+<img src="https://img.shields.io/badge/AI_Integration-0D1117?style=flat-square&logo=googlegemini&logoColor=F2CE99" alt="AI Integration" title="AI Integration" />
 
 <h3>Tools & workflow</h3>
 
-<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,postman,linux&theme=dark" alt="Git, GitHub, Vercel, VS Code, Postman and Linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,postman,linux&theme=dark" alt="Git, GitHub, Vercel, VS Code, Postman and Linux" title="Git, GitHub, Vercel, VS Code, Postman and Linux" />
 
 <br />
 
-<img src="https://img.shields.io/badge/CI/CD-0D1117?style=flat-square&logo=githubactions&logoColor=F2CE99" alt="Continuous integration and deployment" />
-<img src="https://img.shields.io/badge/CLI_Tools-0D1117?style=flat-square&logo=gnubash&logoColor=F2CE99" alt="CLI tools" />
+<img src="https://img.shields.io/badge/CI/CD-0D1117?style=flat-square&logo=githubactions&logoColor=F2CE99" alt="Continuous integration and deployment" title="Continuous integration and deployment" />
+<img src="https://img.shields.io/badge/CLI_Tools-0D1117?style=flat-square&logo=gnubash&logoColor=F2CE99" alt="CLI tools" title="CLI tools" />
 
 </div>
 
@@ -149,25 +149,25 @@ open_to:
 
 <br /><br />
 
-<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yass-gr&theme=github_dark" alt="Yassine's GitHub contribution summary" />
+<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yass-gr&theme=github_dark" alt="Yassine's GitHub contribution summary" title="Yassine's GitHub contribution summary" />
 
 <br />
 
 <a href="https://github.com/yass-gr">
-  <img height="185" src="https://github-readme-stats.vercel.app/api?username=yass-gr&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0D1117&title_color=F2CE99&icon_color=F2CE99&text_color=C9D1D9" alt="Yassine's GitHub statistics" />
+  <img height="185" src="https://github-readme-stats.vercel.app/api?username=yass-gr&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0D1117&title_color=F2CE99&icon_color=F2CE99&text_color=C9D1D9" alt="Yassine's GitHub statistics" title="Yassine's GitHub statistics" />
 </a>
-<img height="185" src="https://streak-stats.demolab.com?user=yass-gr&hide_border=true&background=0D1117&ring=F2CE99&fire=F2CE99&currStreakLabel=F2CE99&sideLabels=C9D1D9&currStreakNum=F2CE99&sideNums=F2CE99&dates=8B949E" alt="GitHub contribution streak" />
+<img height="185" src="https://streak-stats.demolab.com?user=yass-gr&hide_border=true&background=0D1117&ring=F2CE99&fire=F2CE99&currStreakLabel=F2CE99&sideLabels=C9D1D9&currStreakNum=F2CE99&sideNums=F2CE99&dates=8B949E" alt="GitHub contribution streak" title="GitHub contribution streak" />
 
 <br />
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=yass-gr&bg_color=0D1117&color=F2CE99&line=F2CE99&point=F2CE99&area=true&area_color=F2CE99&hide_border=true&radius=8&days=365&custom_title=CONTRIBUTION%20SIGNAL" alt="Yassine's GitHub contribution graph" />
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=yass-gr&bg_color=0D1117&color=F2CE99&line=F2CE99&point=F2CE99&area=true&area_color=F2CE99&hide_border=true&radius=8&days=365&custom_title=CONTRIBUTION%20SIGNAL" alt="Yassine's GitHub contribution graph" title="Yassine's GitHub contribution graph" />
 
 <h3>The contribution signal</h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yass-gr/yass-gr/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yass-gr/yass-gr/output/github-contribution-grid-snake.svg" />
-  <img width="96%" src="https://raw.githubusercontent.com/yass-gr/yass-gr/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution grid" />
+  <img width="96%" src="https://raw.githubusercontent.com/yass-gr/yass-gr/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution grid" title="Animated contribution grid" />
 </picture>
 
 </div>
@@ -179,13 +179,13 @@ open_to:
 
 <div align="center">
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yass-gr&theme=github_dark" alt="Repositories per language" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yass-gr&theme=github_dark" alt="Most committed languages" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yass-gr&theme=github_dark" alt="Repositories per language" title="Repositories per language" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yass-gr&theme=github_dark" alt="Most committed languages" title="Most committed languages" />
 
 <br />
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yass-gr&theme=github_dark" alt="GitHub statistics summary" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yass-gr&theme=github_dark&utcOffset=1" alt="Most productive coding time" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yass-gr&theme=github_dark" alt="GitHub statistics summary" title="GitHub statistics summary" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yass-gr&theme=github_dark&utcOffset=1" alt="Most productive coding time" title="Most productive coding time" />
 
 </div>
 
@@ -207,10 +207,10 @@ I'm always happy to meet builders, exchange ideas, and explore opportunities.
 <br /><br />
 
 <a href="https://github.com/yass-gr">
-  <img src="https://img.shields.io/badge/Follow_on_GitHub-F2CE99?style=for-the-badge&logo=github&logoColor=0D1117" alt="Follow on GitHub" />
+  <img src="https://img.shields.io/badge/Follow_on_GitHub-F2CE99?style=for-the-badge&logo=github&logoColor=0D1117" alt="Follow on GitHub" title="Follow on GitHub" />
 </a>
 <a href="https://yassinegrairi.vercel.app">
-  <img src="https://img.shields.io/badge/Visit_my_Portfolio-F2CE99?style=for-the-badge&logo=vercel&logoColor=0D1117" alt="Visit my portfolio" />
+  <img src="https://img.shields.io/badge/Visit_my_Portfolio-F2CE99?style=for-the-badge&logo=vercel&logoColor=0D1117" alt="Visit my portfolio" title="Visit my portfolio" />
 </a>
 
 <br /><br />
