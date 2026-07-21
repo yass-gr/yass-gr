@@ -104,15 +104,7 @@ open_to:
 
 <h3>Tools & workflow</h3>
 
-<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,postman,linux&theme=dark" alt="Git, GitHub, Vercel, VS Code, Postman and Linux" title="Git, GitHub, Vercel, VS Code, Postman and Linux" />
-
-<br />
-
-<img src="https://cdn.simpleicons.org/apache" height="48" alt="Apache" title="Apache" />
-<img src="https://cdn.simpleicons.org/claude" height="48" alt="Claude" title="Claude" />
-<img src="https://cdn.simpleicons.org/opencode" height="48" alt="OpenCode" title="OpenCode" />
-<img src="https://cdn.simpleicons.org/ffmpeg" height="48" alt="FFmpeg" title="FFmpeg" />
-<img src="https://img.shields.io/badge/OpenClaw-0D1117?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDY0IDY0Ij48dGV4dCB4PSI1MCUiIHk9IjUwJSIgZG9taW5hbnQtYmFzZWxpbmU9ImNlbnRyYWwiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiNGMkNFOTkiIGZvbnQtc2l6ZT0iNDgiIGZvbnQtZmFtaWx5PSJzYW5zLXNlcmlmIj5PQzwvdGV4dD48L3N2Zz4=&logoColor=F2CE99" alt="OpenClaw" title="OpenClaw" />
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,postman,linux,apache,claude,opencode,openclaw,ffmpeg&theme=dark" alt="Git, GitHub, Vercel, VS Code, Postman, Linux, Apache, Claude, OpenCode, OpenClaw and FFmpeg" title="Git, GitHub, Vercel, VS Code, Postman, Linux, Apache, Claude, OpenCode, OpenClaw and FFmpeg" />
 
 <br />
 
