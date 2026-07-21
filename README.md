@@ -65,18 +65,15 @@ open_to:
 <h3>Frontend</h3>
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ejs,bootstrap,jquery,jest,vitest&theme=dark" alt="React, Next.js, Tailwind, EJS, Bootstrap, jQuery, Jest and Vitest" />
+<img src="https://cdn.simpleicons.org/testinglibrary" height="48" alt="React Testing Library" />
+<img src="https://cdn.simpleicons.org/gsap" height="48" alt="GSAP" />
+<img src="https://cdn.simpleicons.org/framer" height="48" alt="Framer Motion" />
 
 <br />
 
 <img src="https://img.shields.io/badge/React_Testing_Library-0D1117?style=flat-square&logo=testinglibrary&logoColor=F2CE99" alt="React Testing Library" />
 <img src="https://img.shields.io/badge/GSAP-0D1117?style=flat-square&logo=gsap&logoColor=F2CE99" alt="GSAP" />
 <img src="https://img.shields.io/badge/Framer_Motion-0D1117?style=flat-square&logo=framer&logoColor=F2CE99" alt="Framer Motion" />
-
-<br />
-
-<img height="48" src="https://cdn.simpleicons.org/testinglibrary/F2CE99" alt="React Testing Library" />
-<img height="48" src="https://cdn.simpleicons.org/gsap/F2CE99" alt="GSAP" />
-<img height="48" src="https://cdn.simpleicons.org/framer/F2CE99" alt="Framer Motion" />
 
 <br />
 
