@@ -150,11 +150,11 @@ open_to:
 <a href="https://github.com/yass-gr">
   <img height="185" src="https://github-readme-stats.vercel.app/api?username=yass-gr&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0D1117&title_color=F2CE99&icon_color=F2CE99&text_color=C9D1D9" alt="Yassine's GitHub statistics" />
 </a>
-<img height="185" src="https://streak-stats.demolab.com?user=yass-gr&hide_border=true&background=0D1117&ring=F5C518&fire=F5C518&currStreakLabel=F5C518&sideLabels=C9D1D9&currStreakNum=F2CE99&sideNums=F2CE99&dates=8B949E" alt="GitHub contribution streak" />
+<img height="185" src="https://streak-stats.demolab.com?user=yass-gr&hide_border=true&background=0D1117&ring=F2CE99&fire=F2CE99&currStreakLabel=F2CE99&sideLabels=C9D1D9&currStreakNum=F2CE99&sideNums=F2CE99&dates=8B949E" alt="GitHub contribution streak" />
 
 <br />
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=yass-gr&bg_color=0D1117&color=F2CE99&line=F5C518&point=F2CE99&area=true&area_color=F2CE99&hide_border=true&radius=8&days=365&custom_title=CONTRIBUTION%20SIGNAL" alt="Yassine's GitHub contribution graph" />
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=yass-gr&bg_color=0D1117&color=F2CE99&line=F2CE99&point=F2CE99&area=true&area_color=F2CE99&hide_border=true&radius=8&days=365&custom_title=CONTRIBUTION%20SIGNAL" alt="Yassine's GitHub contribution graph" />
 
 <h3>The contribution signal</h3>
 
