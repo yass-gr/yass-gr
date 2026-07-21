@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=F5C518" alt="GitHub" />
 </a>
 <a href="https://yassinegrairi.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=F5C518" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Portfolio" />
 </a>
 <a href="https://github.com/yass-gr?tab=repositories">
   <img src="https://img.shields.io/badge/Explore_My_Work-0D1117?style=for-the-badge&logo=githubactions&logoColor=F5C518" alt="Explore my repositories" />
@@ -204,7 +204,7 @@ I'm always happy to meet builders, exchange ideas, and explore opportunities.
   <img src="https://img.shields.io/badge/Follow_on_GitHub-F5C518?style=for-the-badge&logo=github&logoColor=0D1117" alt="Follow on GitHub" />
 </a>
 <a href="https://yassinegrairi.vercel.app">
-  <img src="https://img.shields.io/badge/Visit_my_Portfolio-F5C518?style=for-the-badge&logo=vercel&logoColor=0D1117" alt="Visit my portfolio" />
+  <img src="https://img.shields.io/badge/Visit_my_Portfolio-FFFFFF?style=for-the-badge&logo=vercel&logoColor=0D1117" alt="Visit my portfolio" />
 </a>
 
 <br /><br />
