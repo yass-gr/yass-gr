@@ -25,9 +25,6 @@
 
 <br /><br />
 
-<img src="https://komarev.com/ghpvc/?username=yass-gr&label=PROFILE+VISITORS&color=F2CE99&style=for-the-badge" alt="Profile visitor count" />
-<img src="https://img.shields.io/github/followers/yass-gr?label=FOLLOWERS&style=for-the-badge&color=F2CE99&labelColor=0D1117" alt="GitHub followers" />
-
 </div>
 
 ---
@@ -59,7 +56,7 @@ open_to:
 
 <h3>Core languages</h3>
 
-<img src="https://skillicons.dev/icons?i=js,ts,php,html,css,bash&theme=dark" alt="JavaScript, TypeScript, PHP, HTML, CSS and Bash" />
+<img src="https://skillicons.dev/icons?i=js,ts,php,html,css,python&theme=dark" alt="JavaScript, TypeScript, PHP, HTML, CSS and Python" />
 
 <br />
 
