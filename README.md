@@ -57,9 +57,9 @@ open_to:
 <h3>Core languages</h3>
 
 <img src="https://skillicons.dev/icons?i=js,ts,php,python&theme=dark" alt="JavaScript, TypeScript, PHP and Python" title="JavaScript, TypeScript, PHP and Python" />
-<img src="https://api.iconify.design/mdi/database.svg?color=%23F2CE99" height="48" alt="SQL" title="SQL" />
-<img src="https://cdn.simpleicons.org/html5" height="48" alt="HTML5" title="HTML5" />
-<img src="https://cdn.simpleicons.org/css" height="48" alt="CSS3" title="CSS3" />
+<span style="display:inline-block;background:#5b5f6a;border-radius:60px;line-height:0"><img src="https://api.iconify.design/mdi/database.svg?color=%23F2CE99" height="48" alt="SQL" title="SQL" /></span>
+<span style="display:inline-block;background:#5b5f6a;border-radius:60px;line-height:0"><img src="https://cdn.simpleicons.org/html5" height="48" alt="HTML5" title="HTML5" /></span>
+<span style="display:inline-block;background:#5b5f6a;border-radius:60px;line-height:0"><img src="https://cdn.simpleicons.org/css" height="48" alt="CSS3" title="CSS3" /></span>
 
 <br />
 
@@ -68,7 +68,7 @@ open_to:
 <h3>Frontend</h3>
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,jquery,jest,vitest&theme=dark" alt="React, Next.js, Tailwind, Bootstrap, jQuery, Jest and Vitest" title="React, Next.js, Tailwind, Bootstrap, jQuery, Jest and Vitest" />
-<img src="https://cdn.simpleicons.org/ejs" height="48" alt="EJS" title="EJS" />
+<span style="display:inline-block;background:#5b5f6a;border-radius:60px;line-height:0"><img src="https://cdn.simpleicons.org/ejs" height="48" alt="EJS" title="EJS" /></span>
 <br />
 
 <img src="https://img.shields.io/badge/Web_Frontend-0D1117?style=flat-square&logo=react&logoColor=F2CE99" alt="Web Frontend" title="Web Frontend" />
@@ -92,7 +92,7 @@ open_to:
 <h3>Design / Creative</h3>
 
 <img src="https://skillicons.dev/icons?i=figma,photoshop,pr&theme=dark" alt="Figma, Photoshop and Premiere Pro" title="Figma, Photoshop and Premiere Pro" />
-<img src="https://cdn.simpleicons.org/davinciresolve" height="48" alt="DaVinci Resolve" title="DaVinci Resolve" />
+<span style="display:inline-block;background:#5b5f6a;border-radius:60px;line-height:0"><img src="https://cdn.simpleicons.org/davinciresolve" height="48" alt="DaVinci Resolve" title="DaVinci Resolve" /></span>
 
 <br />
 
@@ -103,15 +103,13 @@ open_to:
 <h3>Tools & workflow</h3>
 
 <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,postman,linux&theme=dark" alt="Git, GitHub, Vercel, VS Code, Postman and Linux" title="Git, GitHub, Vercel, VS Code, Postman and Linux" />
-<img src="https://cdn.simpleicons.org/apache" height="48" alt="Apache" title="Apache" />
-<img src="https://cdn.simpleicons.org/claude" height="48" alt="Claude" title="Claude" />
-<img src="https://cdn.simpleicons.org/opencode" height="48" alt="OpenCode" title="OpenCode" />
-<img src="https://cdn.simpleicons.org/ffmpeg" height="48" alt="FFmpeg" title="FFmpeg" />
-<img src="https://img.shields.io/badge/OpenClaw-0D1117?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDY0IDY0Ij48dGV4dCB4PSI1MCUiIHk9IjUwJSIgZG9taW5hbnQtYmFzZWxpbmU9ImNlbnRyYWwiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiNGMkNFOTkiIGZvbnQtc2l6ZT0iNDgiIGZvbnQtZmFtaWx5PSJzYW5zLXNlcmlmIj5PQzwvdGV4dD48L3N2Zz4=&logoColor=F2CE99" alt="OpenClaw" title="OpenClaw" />
+<span style="display:inline-block;background:#5b5f6a;border-radius:60px;line-height:0"><img src="https://cdn.simpleicons.org/apache" height="48" alt="Apache" title="Apache" /></span>
+<span style="display:inline-block;background:#5b5f6a;border-radius:60px;line-height:0"><img src="https://cdn.simpleicons.org/claude" height="48" alt="Claude" title="Claude" /></span>
+<span style="display:inline-block;background:#5b5f6a;border-radius:60px;line-height:0"><img src="https://cdn.simpleicons.org/ffmpeg" height="48" alt="FFmpeg" title="FFmpeg" /></span>
 
 <br />
 
-<img src="https://img.shields.io/badge/CI/CD-0D1117?style=flat-square&logo=githubactions&logoColor=F2CE99" alt="Continuous integration and deployment" title="Continuous integration and deployment" />
+<img src="https://img.shields.io/badge/AI_Accelerated_Development-0D1117?style=flat-square&logo=claude&logoColor=F2CE99" alt="AI Accelerated Development" title="AI Accelerated Development" />
 <img src="https://img.shields.io/badge/CLI_Tools-0D1117?style=flat-square&logo=gnubash&logoColor=F2CE99" alt="CLI tools" title="CLI tools" />
 
 </div>
@@ -125,7 +123,7 @@ open_to:
   </tr>
   <tr>
     <td><b>Backend</b></td>
-    <td>API design · authentication · databases · server logic · CRUD apps</td>
+    <td>API design · authentication · databases · server logic </td>
   </tr>
   <tr>
     <td><b>Design</b></td>
@@ -147,7 +145,7 @@ open_to:
   </tr>
 </table>
 
-## Contribution intelligence
+## Statistics
 
 <div align="center">
 
@@ -168,8 +166,6 @@ open_to:
 
 <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=yass-gr&bg_color=0D1117&color=F2CE99&line=F2CE99&point=F2CE99&area=true&area_color=F2CE99&hide_border=true&radius=8&days=365&custom_title=CONTRIBUTION%20SIGNAL" alt="Yassine's GitHub contribution graph" title="Yassine's GitHub contribution graph" />
 
-<h3>The contribution signal</h3>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yass-gr/yass-gr/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yass-gr/yass-gr/output/github-contribution-grid-snake.svg" />
@@ -178,24 +174,12 @@ open_to:
 
 </div>
 
-<details>
-<summary><b>Open deeper analytics</b></summary>
-
-<br />
-
 <div align="center">
 
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yass-gr&theme=github_dark" alt="Repositories per language" title="Repositories per language" />
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yass-gr&theme=github_dark" alt="Most committed languages" title="Most committed languages" />
 
-<br />
-
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yass-gr&theme=github_dark" alt="GitHub statistics summary" title="GitHub statistics summary" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yass-gr&theme=github_dark&utcOffset=1" alt="Most productive coding time" title="Most productive coding time" />
-
 </div>
-
-</details>
 
 ## How I approach the work
 
