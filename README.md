@@ -56,7 +56,7 @@ open_to:
 
 <h3>Core languages</h3>
 
-<img src="https://skillicons.dev/icons?i=js,ts,php,html,css,python&theme=dark" alt="JavaScript, TypeScript, PHP, HTML, CSS and Python" />
+<img src="https://skillicons.dev/icons?i=js,ts,php,html,css,python,mysql&theme=dark" alt="JavaScript, TypeScript, PHP, HTML, CSS and Python" />
 
 <br />
 
