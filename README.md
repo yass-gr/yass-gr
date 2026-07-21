@@ -154,7 +154,7 @@ open_to:
 
 <br />
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=yass-gr&bg_color=0D1117&color=F5C518&line=F5C518&point=FFFFFF&area=true&area_color=F5C518&hide_border=true&radius=8&custom_title=CONTRIBUTION%20SIGNAL" alt="Yassine's GitHub contribution graph" />
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=yass-gr&bg_color=0D1117&color=F5C518&line=F5C518&point=FFFFFF&area=true&area_color=F5C518&hide_border=true&radius=8&days=365&custom_title=CONTRIBUTION%20SIGNAL" alt="Yassine's GitHub contribution graph" />
 
 <h3>The contribution signal</h3>
 
