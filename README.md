@@ -66,7 +66,7 @@ open_to:
 <h3>Core languages</h3>
 
 <img src="https://skillicons.dev/icons?i=js,ts,php,python&theme=dark" alt="JavaScript, TypeScript, PHP and Python" title="JavaScript, TypeScript, PHP and Python" />
-<span style="display:inline-block;background:#5b5f6a;border-radius:60px;line-height:0"><img src="https://api.iconify.design/mdi/database.svg?color=%23F2CE99" height="48" alt="SQL" title="SQL" /></span>
+<span style="display:inline-block;background:#5b5f6a;border-radius:60px;line-height:0"><img src="https://api.iconify.design/mdi/database.svg?color=%23F2CE99" width="48" height="48" alt="SQL" title="SQL" /></span>
 <span style="display:inline-block;background:#5b5f6a;border-radius:60px;line-height:0"><img src="https://cdn.simpleicons.org/html5" height="48" alt="HTML5" title="HTML5" /></span>
 <span style="display:inline-block;background:#5b5f6a;border-radius:60px;line-height:0"><img src="https://cdn.simpleicons.org/css" height="48" alt="CSS3" title="CSS3" /></span>
 
@@ -76,7 +76,9 @@ open_to:
 
 <h3>Frontend</h3>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,jquery,jest,vitest&theme=dark" alt="React, Next.js, Tailwind, Bootstrap, jQuery, Jest and Vitest" title="React, Next.js, Tailwind, Bootstrap, jQuery, Jest and Vitest" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,jquery,jest&theme=dark" alt="React, Next.js, Tailwind, Bootstrap, jQuery and Jest" title="React, Next.js, Tailwind, Bootstrap, jQuery and Jest" />
+<span style="display:inline-block;background:#5b5f6a;border-radius:60px;line-height:0"><img src="https://cdn.simpleicons.org/vitest" width="48" height="48" alt="Vitest" title="Vitest" /></span>
+<span style="display:inline-block;background:#5b5f6a;border-radius:60px;line-height:0"><img src="https://cdn.simpleicons.org/testinglibrary" width="48" height="48" alt="React Testing Library" title="React Testing Library" /></span>
 <span style="display:inline-block;background:#5b5f6a;border-radius:60px;line-height:0"><img src="https://cdn.simpleicons.org/ejs" height="48" alt="EJS" title="EJS" /></span>
 <br />
 
