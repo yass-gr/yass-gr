@@ -56,7 +56,10 @@ open_to:
 
 <h3>Core languages</h3>
 
-<img src="https://skillicons.dev/icons?i=js,ts,php,html,css,python,mysql&theme=dark" alt="JavaScript, TypeScript, PHP, HTML, CSS and Python" title="JavaScript, TypeScript, PHP, HTML, CSS and Python" />
+<img src="https://skillicons.dev/icons?i=js,ts,php,python&theme=dark" alt="JavaScript, TypeScript, PHP and Python" title="JavaScript, TypeScript, PHP and Python" />
+<img src="https://api.iconify.design/mdi/database.svg?color=%23F2CE99" height="48" alt="SQL" title="SQL" />
+<img src="https://cdn.simpleicons.org/html5" height="48" alt="HTML5" title="HTML5" />
+<img src="https://cdn.simpleicons.org/css" height="48" alt="CSS3" title="CSS3" />
 
 <br />
 
@@ -64,40 +67,42 @@ open_to:
 
 <h3>Frontend</h3>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ejs,bootstrap,jquery,jest,vitest&theme=dark" alt="React, Next.js, Tailwind, EJS, Bootstrap, jQuery, Jest and Vitest" title="React, Next.js, Tailwind, EJS, Bootstrap, jQuery, Jest and Vitest" />
-<img src="https://cdn.simpleicons.org/testinglibrary" height="48" alt="React Testing Library" title="React Testing Library" />
-<img src="https://cdn.simpleicons.org/gsap" height="48" alt="GSAP" title="GSAP" />
-<img src="https://cdn.simpleicons.org/framer" height="48" alt="Framer Motion" title="Framer Motion" />
-
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,jquery,jest&theme=dark" alt="React, Next.js, Tailwind, Bootstrap, jQuery and Jest" title="React, Next.js, Tailwind, Bootstrap, jQuery and Jest" />
+<img src="https://cdn.simpleicons.org/ejs" height="48" alt="EJS" title="EJS" />
+<img src="https://cdn.simpleicons.org/vitest" height="48" alt="Vitest" title="Vitest" />
 <br />
 
-<img src="https://img.shields.io/badge/React_Testing_Library-0D1117?style=flat-square&logo=testinglibrary&logoColor=F2CE99" alt="React Testing Library" title="React Testing Library" />
-<img src="https://img.shields.io/badge/GSAP-0D1117?style=flat-square&logo=gsap&logoColor=F2CE99" alt="GSAP" title="GSAP" />
-<img src="https://img.shields.io/badge/Framer_Motion-0D1117?style=flat-square&logo=framer&logoColor=F2CE99" alt="Framer Motion" title="Framer Motion" />
-
-<br />
-
-<img src="https://img.shields.io/badge/Responsive_Design-0D1117?style=flat-square&logo=css3&logoColor=F2CE99" alt="Responsive Design" title="Responsive Design" />
-<img src="https://img.shields.io/badge/UI_Design-0D1117?style=flat-square&logo=figma&logoColor=F2CE99" alt="UI Design" title="UI Design" />
+<img src="https://img.shields.io/badge/Web_Frontend-0D1117?style=flat-square&logo=react&logoColor=F2CE99" alt="Web Frontend" title="Web Frontend" />
+<img src="https://img.shields.io/badge/Mobile_Frontend-0D1117?style=flat-square&logo=expo&logoColor=F2CE99" alt="Mobile Frontend" title="Mobile Frontend" />
+<img src="https://img.shields.io/badge/UI_Testing-0D1117?style=flat-square&logo=testinglibrary&logoColor=F2CE99" alt="UI Testing" title="UI Testing" />
+<img src="https://img.shields.io/badge/Responsive_Design-0D1117?style=flat-square&logo=css&logoColor=F2CE99" alt="Responsive Design" title="Responsive Design" />
+<img src="https://img.shields.io/badge/Optimized_Animations-0D1117?style=flat-square&logo=gsap&logoColor=F2CE99" alt="Optimized Animations" title="Optimized Animations" />
+<img src="https://img.shields.io/badge/UI_UX-0D1117?style=flat-square&logo=figma&logoColor=F2CE99" alt="UI UX" title="UI UX" />
 
 <h3>Backend</h3>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,postgres,mongodb&theme=dark" alt="Node.js, Express, PHP, MySQL, PostgreSQL and MongoDB" title="Node.js, Express, PHP, MySQL, PostgreSQL and MongoDB" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,postgres,sqlite&theme=dark" alt="Node.js, Express, PHP, PostgreSQL and SQLite" title="Node.js, Express, PHP, PostgreSQL and SQLite" />
+<img src="https://cdn.simpleicons.org/mysql" height="48" alt="MySQL" title="MySQL" />
 
 <br />
 
 <img src="https://img.shields.io/badge/REST_APIs-0D1117?style=flat-square&logo=fastapi&logoColor=F2CE99" alt="REST APIs" title="REST APIs" />
 <img src="https://img.shields.io/badge/Authentication_%26_Authorization-0D1117?style=flat-square&logo=auth0&logoColor=F2CE99" alt="Authentication and Authorization" title="Authentication and Authorization" />
-<img src="https://img.shields.io/badge/CRUD-0D1117?style=flat-square&logo=databricks&logoColor=F2CE99" alt="CRUD operations" title="CRUD operations" />
+<img src="https://img.shields.io/badge/Security-0D1117?style=flat-square&logo=letsencrypt&logoColor=F2CE99" alt="Security" title="Security" />
+<img src="https://img.shields.io/badge/SSR-0D1117?style=flat-square&logo=php&logoColor=F2CE99" alt="SSR" title="Server-Side Rendering" />
 
-<h3>AI & Agentic workflows</h3>
+<h3>Design / Creative</h3>
 
-<img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python" title="Python" />
+<img src="https://skillicons.dev/icons?i=figma,photoshop,pr&theme=dark" alt="Figma, Photoshop and Premiere Pro" title="Figma, Photoshop and Premiere Pro" />
+<img src="https://api.iconify.design/simple-icons/davinciresolve.svg?color=%23F2CE99" height="48" alt="DaVinci Resolve" title="DaVinci Resolve" />
+<img src="data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRjJDRTk5IiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTguMzQyIDEzLjE2SDMuNDU1Yy0uNTEzIDAtLjc3Mi0uNjM5LS40MDgtMS4wMTJsMS42MDgtMS42NTNhMy4xNjYgMy4xNjYgMCAwMTQuNTY1IDBsLjUxMy41MjcuMDA2LS4wMTUuMDM4LjAxN2MuNzM1LTEuOTMuNzg2LTIuODA5Ljc4My01LjAwN3YtLjI3NWMtLjAxLTEuNzgyLS4wMi0zLjkzNSAxLjk2NS00LjIyIDIuNjAzLS4zNzUgNC41MDQgNC4yMTkgNC44MTUgOC4yOTlhMy4xNjYgMy4xNjYgMCAwMTMuMzguNzc0bDEuNjA5IDEuNjUzYy4zNjUuMzc1LjEwNiAxLjAxMi0uNDA3IDEuMDEySDE5LjI3Yy4wNzIuMjY0LjExLjU0Mi4xMS44Mjh2NS42NjRjMCAuOTE0LS45OTQgMS4yOTItMS42MDIuNTc2LS4yMjktLjI3LTEuMDY3LTEuMjUtMi4xNTUtMi41Mi0yLjkyIDQuMTgzLTEwLjI2NiA2LjQ2Mi0xMi4zNCAzLjAwNmEuOTE1LjkxNSAwIDAxLS4wNSAwaC0uNzQzYS45OTEuOTkxIDAgMTEwLTEuOTgyaC4yNDZjLjAxNC0xLjY4NyAxLjIzLTMuMTQ4IDIuODQ2LTMuNzgzYTcuNDQ4IDcuNDQ4IDAgMDAyLjc2LTEuODg5em03LjU0My0yLjE0NWMwLS4xMjctLjAwMS0uMjU2LS4wMDUtLjM4OGExNS42OTMgMTUuNjkzIDAgMDAtLjYzMi0zLjkzOWMtLjM4LTEuMjgyLS44ODctMi4zMy0xLjQyNS0yLjk5Mi0uNTQ1LS42NzEtLjkwNi0uNzE1LTEuMDg1LS42OS0uMjIzLjAzMi0uMjkyLjA5OC0uMzIyLjEyOS0uMDUuMDUyLS4xMzUuMTc2LS4yMDkuNDUtLjE1Mi41NjctLjE1IDEuMjg2LS4xNDcgMi4xODZ2LjI0NGMuMDAyIDEuMTM0LS4wMDkgMi4wMjgtLjE0NSAyLjkyYTExLjI5MiAxMS4yOTIgMCAwMS0uNTM3IDIuMDhoNC41MDd6bS0zLjQ2OCAzLjA1NmMtMS42MzYgMy4xNjYtNC45ODEgNC43MS04LjExOCA0Ljg3YS41NjIuNTYyIDAgMDAuMDU3IDEuMTI0YzMuMjk0LS4xNjkgNi45MjEtMS43NDkgOC44NDUtNS4wODFsLS43ODQtLjkxM3oiPjwvcGF0aD48L3N2Zz4=" height="48" alt="Nano Banana" title="Nano Banana" />
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJhIiB4MT0iNy45NjgiIHkxPSIwLjY3OCIgeDI9IjcuOTY4IiB5Mj0iMTUuMzM1IiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+PHN0b3Agb2Zmc2V0PSIwLjEwOSIgc3RvcC1jb2xvcj0iI0JFREQ0QyIvPjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzM3N0QwMSIvPjwvbGluZWFyR3JhZGllbnQ+PGxpbmVhckdyYWRpZW50IGlkPSJiIiB4MT0iMS4zMzMiIHkxPSIyLjY2NyIgeDI9IjE0LjMzMyIgeTI9IjE0LjMzMyIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPjxzdG9wIHN0b3AtY29sb3I9IiNmZmYiIHN0b3Atb3BhY2l0eT0iMCIvPjxzdG9wIG9mZnNldD0iMC4zNSIgc3RvcC1jb2xvcj0iI2ZmZiIgc3RvcC1vcGFjaXR5PSIwLjg1Ii8+PHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjZmZmIiBzdG9wLW9wYWNpdHk9IjAiLz48L2xpbmVhckdyYWRpZW50PjxtYXNrIGlkPSJtIj48cGF0aCBkPSJNNy40NyAxLjIzNGEuMzk4LjM5OCAwIDAxLjU3OCAwbC44MzQuOTU0YS40NzQuNDc0IDAgMDAuMjU0LjE2NGwxLjIxMi0uMzQ3YS40My40MyAwIDAxLjUyNS41NDNsLjE5MSAxLjI1OGEuNDcuNDcgMCAwMC4yNTUuMzIybDEuMjA2LjM3YS40MDIuNDAyIDAgMDEuMTk2LjYxNGwtLjUxMyAxLjE2MmEuNDY5LjQ2OSAwIDAwLjAwNC40MDZsLjUxMyAxLjE2MmEuNDAyLjQwMiAwIDAxLS4yLjYxM2wtMS4yMDYuMzdhLjQ3LjQ3IDAgMDAtLjI1NS4zMjJsLS4xOSAxLjI1OGEuNDMuNDMgMCAwMS0uNTI2LjU0M2wtMS4yMTItLjM0N2EuNDc0LjQ3NCAwIDAwLS4yNTQuMTY0bC0uODM0Ljk1NGEuMzk4LjM5OCAwIDAxLS41NzggMGwtLjgzNC0uOTU0YS40NzQuNDc0IDAgMDAtLjI1NC0uMTY0bC0xLjIxMi4zNDdhLjQzLjQzIDAgMDEtLjUyNS0uNTQzbC0uMTktMS4yNThhLjQ3LjQ3IDAgMDAtLjI1Ni0uMzIybC0xLjIwNS0uMzdhLjQwMi40MDIgMCAwMS0uMTk3LS42MTRsLjUxMy0xLjE2MmEuNDY5LjQ2OSAwIDAwLS4wMDQtLjQwNmwtLjUxMy0xLjE2MmEuNDAyLjQwMiAwIDAxLjItLjYxM2wxLjIwNi0uMzdhLjQ3LjQ3IDAgMDAuMjU1LS4zMjJsLjE5LTEuMjU4YS40My40MyAwIDAxLjUyNi0uNTQzbDEuMjEyLjM0N2EuNDc0LjQ3NCAwIDAwLjI1NC0uMTY0bC44MzQtLjk1NHoiIGZpbGw9IiNmZmYiLz48L21hc2s+PC9kZWZzPjxwYXRoIGQ9Ik03LjQ3IDEuMjM0YS4zOTguMzk4IDAgMDEuNTc4IDBsLjgzNC45NTRhLjQ3NC40NzQgMCAwMC4yNTQuMTY0bDEuMjEyLS4zNDdhLjQzLjQzIDAgMDEuNTI1LjU0M2wuMTkxIDEuMjU4YS40Ny40NyAwIDAwLjI1NS4zMjJsMS4yMDYuMzdhLjQwMi40MDIgMCAwMS4xOTYuNjE0bC0uNTEzIDEuMTYyYS40NjkuNDY5IDAgMDAuMDA0LjQwNmwuNTEzIDEuMTYyYS40MDIuNDAyIDAgMDEtLjIuNjEzbC0xLjIwNi4zN2EuNDcuNDcgMCAwMC0uMjU1LjMyMmwtLjE5IDEuMjU4YS40My40MyAwIDAxLS41MjYuNTQzbC0xLjIxMi0uMzQ3YS40NzQuNDc0IDAgMDAtLjI1NC4xNjRsLS44MzQuOTU0YS4zOTguMzk4IDAgMDEtLjU3OCAwbC0uODM0LS45NTRhLjQ3NC40NzQgMCAwMC0uMjU0LS4xNjRsLTEuMjEyLjM0N2EuNDMuNDMgMCAwMS0uNTI1LS41NDNsLS4xOS0xLjI1OGEuNDcuNDcgMCAwMC0uMjU2LS4zMjJsLTEuMjA1LS4zN2EuNDAyLjQwMiAwIDAxLS4xOTctLjYxNGwuNTEzLTEuMTYyYS40NjkuNDY5IDAgMDAtLjAwNC0uNDA2bC0uNTEzLTEuMTYyYS40MDIuNDAyIDAgMDEuMi0uNjEzbDEuMjA2LS4zN2EuNDcuNDcgMCAwMC4yNTUtLjMyMmwuMTktMS4yNThhLjQzLjQzIDAgMDEuNTI2LS41NDNsMS4yMTIuMzQ3YS40NzQuNDc0IDAgMDAuMjU0LS4xNjRsLjgzNC0uOTU0eiIgZmlsbD0idXJsKCNhKSIvPjxnIG1hc2s9InVybCgjbSkiPjxwYXRoIGQ9Ik0xMy41NjcgNy45MDdsLS4wMTEtLjEwMmMtLjEtLjk4LS44MjUtMi44MjQtMi44MzUtMi44MjQtMS40OSAwLTIuNjE4IDEuMjk2LTMuNjEyIDIuNDM5LS43OTMuOTE1LTEuNDggMS43LTIuMjM3IDEuNy0uMjAxLS4wMTgtLjQ2LS4xMDYtLjYxOS0uMzA2LS4xNDMtLjE4MS0uMTgtLjQxMy0uMTA2LS42OTIuMTE2LS40NDEuNzgzLS44NSAxLjQ4Ni0xLjI4Ny4zODYtLjIzMi43ODMtLjQ3OCAxLjA1OC0uNzE1Ljc5My0uNjc0IDEuMTk1LTEuMTYyIDEuMTk1LTEuOTQ3cy0uNDkyLTEuMTc1LS45MDQtMS4zNDNjLS44MjUtLjMzNC0yLjAzNi0uMTM5LTIuODA4LjQ0Ni0uMTE3LjA5My0uMjMzLjE4MS0uMzQuMjY1LS43NzcuNjA5LTEuMyAxLjAyMi0yLjUwMS43MDZ2MS4yNzNjMS41OTIuNjE4IDIuOTMtLjU2MiAzLjQzOC0xLjEwNS4zOTEtLjM1OC44MDQtLjU2NyAxLjExLS41NjdoLjAxNmMuMTM4LjAwNS4yNTQuMDUxLjM0LjEzNS4xMzcuMTQuMTkuMzAyLjE2My40ODMtLjA1OC4zODEtLjUwNy44MjctMS4zMzIgMS4zMTUtLjk2OC41NzEtMi41ODYgMS41MjgtMi43MTMgMi43MzEtLjA5NS44NjQuNDEyIDEuNzI4IDEuMjA2IDIuMDYzIDEuODUxLjc3MSAyLjk3OC0uNTU4IDQuMTczLTEuOTYuOTE1LTEuMDgzIDEuNzgyLTIuMTEgMi45ODgtMi4xMSAxLjA4NCAwIDEuNDg2Ljc5IDEuNDg2IDEuMjg3di4wOThsLS4xMDYuMDE4Yy0yLjYyOC40MDktNC4wNjIgMi41NzQtNC4wNjIgMy41NzMgMCAuOTk5Ljk2MyAxLjg1MyAyLjE0NyAxLjg1MyAxLjM4NiAwIDMuMS0xLjA0IDMuMzc1LTMuOTY3bC4wMS0uMTA3SDIwdi0xLjM1MmgtNi40MzN6bS0xLjQzNCAxLjVjLS4yMTIgMS43NTItMS4yMzIgMi41Ny0xLjg1MSAyLjU3LS4yOCAwLS42NzItLjIwNS0uNjcyLS41ODYgMC0uNDI3LjcyNS0xLjcyMyAyLjM1NC0yLjEwOWwuMTktLjA0Mi0uMDIxLjE2N3oiIGZpbGw9InVybCgjYikiLz48L2c+PC9zdmc+" height="48" alt="Higgsfield" title="Higgsfield" />
 
 <br />
 
-<img src="https://img.shields.io/badge/Agentic_Workflows-0D1117?style=flat-square&logo=openai&logoColor=F2CE99" alt="Agentic Workflows" title="Agentic Workflows" />
-<img src="https://img.shields.io/badge/AI_Integration-0D1117?style=flat-square&logo=googlegemini&logoColor=F2CE99" alt="AI Integration" title="AI Integration" />
+<img src="https://img.shields.io/badge/Graphic_Design-0D1117?style=flat-square&logo=adobephotoshop&logoColor=F2CE99" alt="Graphic Design" title="Graphic Design" />
+<img src="https://img.shields.io/badge/Web_Design-0D1117?style=flat-square&logo=figma&logoColor=F2CE99" alt="Web Design" title="Web Design" />
+<img src="https://img.shields.io/badge/Editing-0D1117?style=flat-square&logo=adobepremierepro&logoColor=F2CE99" alt="Editing" title="Editing" />
 
 <h3>Tools & workflow</h3>
 
