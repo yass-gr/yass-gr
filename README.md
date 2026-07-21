@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGc2a2NucjA1c25panluZG4zODBid3NsYmhhcTJqNGp0cjBvOWoydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TzYEkN2PT9WIT2kOUL/giphy.gif" width="100%" alt="coding banner" />
+<img src="./assets/banner.gif" width="100%" alt="coding banner" />
 
 <br />
 
