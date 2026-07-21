@@ -64,7 +64,14 @@ open_to:
 
 <h3>Frontend</h3>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ejs&theme=dark" alt="React, Next.js, Tailwind and EJS" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ejs,bootstrap,jquery,jest,vitest&theme=dark" alt="React, Next.js, Tailwind, EJS, Bootstrap, jQuery, Jest and Vitest" />
+
+<br />
+
+<img src="https://img.shields.io/badge/React_Testing_Library-0D1117?style=flat-square&logo=testinglibrary&logoColor=F2CE99" alt="React Testing Library" />
+<img src="https://img.shields.io/badge/GSAP-0D1117?style=flat-square&logo=greensock&logoColor=F2CE99" alt="GSAP" />
+<img src="https://img.shields.io/badge/Framer_Motion-0D1117?style=flat-square&logo=framer&logoColor=F2CE99" alt="Framer Motion" />
+<img src="https://img.shields.io/badge/Remotion-0D1117?style=flat-square&logo=remotion&logoColor=F2CE99" alt="Remotion" />
 
 <br />
 
