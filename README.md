@@ -4,7 +4,7 @@
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2600&pause=900&color=F5C518&center=true&vCenter=true&width=850&lines=Hey%2C+I%27m+Yassine+Grairi;Full-stack+dev+from+Morocco+%F0%9F%87%B2%F0%9F%87%A6;JS+ecosystem+%2B+design+background;Building+clean%2C+performant+software;I+like+code+that+feels+right" alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2600&pause=900&color=FFFFFF&center=true&vCenter=true&width=850&lines=Hey%2C+I%27m+Yassine+Grairi;Full-stack+dev+from+Morocco+%F0%9F%87%B2%F0%9F%87%A6;JS+ecosystem+%2B+design+background;Building+clean%2C+performant+software;I+like+code+that+feels+right" alt="Animated introduction" />
 
 <h3>Building things for the web. One component at a time.</h3>
 
@@ -14,19 +14,19 @@
 </p>
 
 <a href="https://github.com/yass-gr">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=F5C518" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
 </a>
 <a href="https://yassinegrairi.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Portfolio" />
 </a>
 <a href="https://github.com/yass-gr?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore_My_Work-0D1117?style=for-the-badge&logo=githubactions&logoColor=F5C518" alt="Explore my repositories" />
+  <img src="https://img.shields.io/badge/Explore_My_Work-0D1117?style=for-the-badge&logo=githubactions&logoColor=FFFFFF" alt="Explore my repositories" />
 </a>
 
 <br /><br />
 
-<img src="https://komarev.com/ghpvc/?username=yass-gr&label=PROFILE+VISITORS&color=F5C518&style=for-the-badge" alt="Profile visitor count" />
-<img src="https://img.shields.io/github/followers/yass-gr?label=FOLLOWERS&style=for-the-badge&color=F5C518&labelColor=0D1117" alt="GitHub followers" />
+<img src="https://komarev.com/ghpvc/?username=yass-gr&label=PROFILE+VISITORS&color=FFFFFF&style=for-the-badge" alt="Profile visitor count" />
+<img src="https://img.shields.io/github/followers/yass-gr?label=FOLLOWERS&style=for-the-badge&color=FFFFFF&labelColor=0D1117" alt="GitHub followers" />
 
 </div>
 
@@ -71,8 +71,8 @@ open_to:
 
 <br />
 
-<img src="https://img.shields.io/badge/Responsive_Design-0D1117?style=flat-square&logo=css3&logoColor=F5C518" alt="Responsive Design" />
-<img src="https://img.shields.io/badge/UI_Design-0D1117?style=flat-square&logo=figma&logoColor=F5C518" alt="UI Design" />
+<img src="https://img.shields.io/badge/Responsive_Design-0D1117?style=flat-square&logo=css3&logoColor=FFFFFF" alt="Responsive Design" />
+<img src="https://img.shields.io/badge/UI_Design-0D1117?style=flat-square&logo=figma&logoColor=FFFFFF" alt="UI Design" />
 
 <h3>Backend</h3>
 
@@ -80,9 +80,9 @@ open_to:
 
 <br />
 
-<img src="https://img.shields.io/badge/REST_APIs-0D1117?style=flat-square&logo=fastapi&logoColor=F5C518" alt="REST APIs" />
-<img src="https://img.shields.io/badge/Authentication_%26_Authorization-0D1117?style=flat-square&logo=auth0&logoColor=F5C518" alt="Authentication and Authorization" />
-<img src="https://img.shields.io/badge/CRUD-0D1117?style=flat-square&logo=databricks&logoColor=F5C518" alt="CRUD operations" />
+<img src="https://img.shields.io/badge/REST_APIs-0D1117?style=flat-square&logo=fastapi&logoColor=FFFFFF" alt="REST APIs" />
+<img src="https://img.shields.io/badge/Authentication_%26_Authorization-0D1117?style=flat-square&logo=auth0&logoColor=FFFFFF" alt="Authentication and Authorization" />
+<img src="https://img.shields.io/badge/CRUD-0D1117?style=flat-square&logo=databricks&logoColor=FFFFFF" alt="CRUD operations" />
 
 <h3>AI & Agentic workflows</h3>
 
@@ -90,8 +90,8 @@ open_to:
 
 <br />
 
-<img src="https://img.shields.io/badge/Agentic_Workflows-0D1117?style=flat-square&logo=openai&logoColor=F5C518" alt="Agentic Workflows" />
-<img src="https://img.shields.io/badge/AI_Integration-0D1117?style=flat-square&logo=googlegemini&logoColor=F5C518" alt="AI Integration" />
+<img src="https://img.shields.io/badge/Agentic_Workflows-0D1117?style=flat-square&logo=openai&logoColor=FFFFFF" alt="Agentic Workflows" />
+<img src="https://img.shields.io/badge/AI_Integration-0D1117?style=flat-square&logo=googlegemini&logoColor=FFFFFF" alt="AI Integration" />
 
 <h3>Tools & workflow</h3>
 
@@ -99,8 +99,8 @@ open_to:
 
 <br />
 
-<img src="https://img.shields.io/badge/CI/CD-0D1117?style=flat-square&logo=githubactions&logoColor=F5C518" alt="Continuous integration and deployment" />
-<img src="https://img.shields.io/badge/CLI_Tools-0D1117?style=flat-square&logo=gnubash&logoColor=F5C518" alt="CLI tools" />
+<img src="https://img.shields.io/badge/CI/CD-0D1117?style=flat-square&logo=githubactions&logoColor=FFFFFF" alt="Continuous integration and deployment" />
+<img src="https://img.shields.io/badge/CLI_Tools-0D1117?style=flat-square&logo=gnubash&logoColor=FFFFFF" alt="CLI tools" />
 
 </div>
 
@@ -148,13 +148,13 @@ open_to:
 <br />
 
 <a href="https://github.com/yass-gr">
-  <img height="185" src="https://github-readme-stats.vercel.app/api?username=yass-gr&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0D1117&title_color=F5C518&icon_color=F5C518&text_color=C9D1D9" alt="Yassine's GitHub statistics" />
+  <img height="185" src="https://github-readme-stats.vercel.app/api?username=yass-gr&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=C9D1D9" alt="Yassine's GitHub statistics" />
 </a>
 <img height="185" src="https://streak-stats.demolab.com?user=yass-gr&hide_border=true&background=0D1117&ring=F5C518&fire=F5C518&currStreakLabel=F5C518&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak" />
 
 <br />
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=yass-gr&bg_color=0D1117&color=F5C518&line=F5C518&point=FFFFFF&area=true&area_color=F5C518&hide_border=true&radius=8&days=365&custom_title=CONTRIBUTION%20SIGNAL" alt="Yassine's GitHub contribution graph" />
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=yass-gr&bg_color=0D1117&color=FFFFFF&line=F5C518&point=FFFFFF&area=true&area_color=FFFFFF&hide_border=true&radius=8&days=365&custom_title=CONTRIBUTION%20SIGNAL" alt="Yassine's GitHub contribution graph" />
 
 <h3>The contribution signal</h3>
 
@@ -201,7 +201,7 @@ I'm always happy to meet builders, exchange ideas, and explore opportunities.
 <br /><br />
 
 <a href="https://github.com/yass-gr">
-  <img src="https://img.shields.io/badge/Follow_on_GitHub-F5C518?style=for-the-badge&logo=github&logoColor=0D1117" alt="Follow on GitHub" />
+  <img src="https://img.shields.io/badge/Follow_on_GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=0D1117" alt="Follow on GitHub" />
 </a>
 <a href="https://yassinegrairi.vercel.app">
   <img src="https://img.shields.io/badge/Visit_my_Portfolio-FFFFFF?style=for-the-badge&logo=vercel&logoColor=0D1117" alt="Visit my portfolio" />
