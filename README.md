@@ -57,15 +57,15 @@ open_to:
 
 <div align="center">
 
-### Languages
+<h3>Core languages</h3>
 
 <img src="https://skillicons.dev/icons?i=js,ts,php,html,css,bash&theme=dark" alt="JavaScript, TypeScript, PHP, HTML, CSS and Bash" />
 
 <br />
 
-<sub><b>Comfort zone:</b> JavaScript · full-stack, versatile, and always evolving</sub>
+<sub><b>Favourite language:</b> JavaScript · full-stack, versatile, and always evolving</sub>
 
-### Frontend
+<h3>Frontend</h3>
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ejs&theme=dark" alt="React, Next.js, Tailwind and EJS" />
 
@@ -74,7 +74,7 @@ open_to:
 <img src="https://img.shields.io/badge/Responsive_Design-0D1117?style=flat-square&logo=css3&logoColor=F5C518" alt="Responsive Design" />
 <img src="https://img.shields.io/badge/UI_Design-0D1117?style=flat-square&logo=figma&logoColor=F5C518" alt="UI Design" />
 
-### Backend
+<h3>Backend</h3>
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,postgres,mongodb&theme=dark" alt="Node.js, Express, PHP, MySQL, PostgreSQL and MongoDB" />
 
@@ -84,7 +84,7 @@ open_to:
 <img src="https://img.shields.io/badge/Authentication_%26_Authorization-0D1117?style=flat-square&logo=auth0&logoColor=F5C518" alt="Authentication and Authorization" />
 <img src="https://img.shields.io/badge/CRUD-0D1117?style=flat-square&logo=databricks&logoColor=F5C518" alt="CRUD operations" />
 
-### AI & Agentic workflows
+<h3>AI & Agentic workflows</h3>
 
 <img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python" />
 
@@ -93,7 +93,7 @@ open_to:
 <img src="https://img.shields.io/badge/Agentic_Workflows-0D1117?style=flat-square&logo=openai&logoColor=F5C518" alt="Agentic Workflows" />
 <img src="https://img.shields.io/badge/AI_Integration-0D1117?style=flat-square&logo=googlegemini&logoColor=F5C518" alt="AI Integration" />
 
-### Tools & workflow
+<h3>Tools & workflow</h3>
 
 <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,postman,linux&theme=dark" alt="Git, GitHub, Vercel, VS Code, Postman and Linux" />
 
@@ -156,7 +156,7 @@ open_to:
 
 <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=yass-gr&bg_color=0D1117&color=F5C518&line=F5C518&point=FFFFFF&area=true&area_color=F5C518&hide_border=true&radius=8&custom_title=CONTRIBUTION%20SIGNAL" alt="Yassine's GitHub contribution graph" />
 
-### The contribution signal
+<h3>The contribution signal</h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yass-gr/yass-gr/output/github-contribution-grid-snake-dark.svg" />
@@ -213,6 +213,6 @@ I'm always happy to meet builders, exchange ideas, and explore opportunities.
 
 <br />
 
-### ✦
+<h3>✦</h3>
 
 </div>
