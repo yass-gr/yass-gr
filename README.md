@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.gif" width="100%" alt="coding banner" title="coding banner" />
+<!-- <img src="./assets/banner.gif" width="100%" alt="coding banner" title="coding banner" /> -->
 
 <br />
 
