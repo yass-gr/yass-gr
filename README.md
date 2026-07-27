@@ -139,7 +139,7 @@
 
 <div align="center">
 
-<sub>LIVE FROM THE GITHUB GRID</sub>
+
 
 <br /><br />
 
@@ -150,11 +150,11 @@
 <a href="https://github.com/yass-gr">
   <img height="185" src="https://github-readme-stats.vercel.app/api?username=yass-gr&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0D1117&title_color=F2CE99&icon_color=F2CE99&text_color=C9D1D9" alt="Yassine's GitHub statistics" title="Yassine's GitHub statistics" />
 </a>
-<img height="185" src="https://streak-stats.demolab.com?user=yass-gr&hide_border=true&background=0D1117&ring=F2CE99&fire=F2CE99&currStreakLabel=F2CE99&sideLabels=C9D1D9&currStreakNum=F2CE99&sideNums=F2CE99&dates=8B949E" alt="GitHub contribution streak" title="GitHub contribution streak" />
+
 
 <br />
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=yass-gr&bg_color=0D1117&color=F2CE99&line=F2CE99&point=F2CE99&area=true&area_color=F2CE99&hide_border=true&radius=8&days=365&custom_title=CONTRIBUTION%20SIGNAL" alt="Yassine's GitHub contribution graph" title="Yassine's GitHub contribution graph" />
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yass-gr/yass-gr/output/github-contribution-grid-snake-dark.svg" />
