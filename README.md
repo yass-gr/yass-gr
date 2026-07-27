@@ -9,8 +9,7 @@
 <h3>I love building stuff</h3>
 
 <p>
-  I'm a full-stack developer from Guelmim/Morocco with a design background.<br />
-  I build clean performant software that solves problmes, Open for freelance.
+ I'm a full-stack developer from Guelmim, Morocco with a design background. <br/> I build clean, performant software that solves problems. Open for freelance work.
 </p>
 
 <a href="https://github.com/yass-gr">
