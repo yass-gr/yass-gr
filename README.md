@@ -4,7 +4,7 @@
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2600&pause=900&color=F2CE99&center=true&vCenter=true&width=850&lines=Hey%2C+I%27m+Yassine+Grairi;Full-stack+dev+from+Guelmim%2FMorocco+%F0%9F%87%B2%F0%9F%87%A6;JS+ecosystem+%2B+design+background;Building+clean%2C+performant+software;" alt="Animated introduction" title="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2600&pause=900&color=F2CE99&center=true&vCenter=true&width=850&lines=Hey%2C+I%27m+Yassine+Grairi;Full-stack+dev+from+Guelmim%2FMorocco+%F0%9F%87%B2%F0%9F%87%A6;Building+clean%2C+performant+software;" alt="Animated introduction" title="Animated introduction" />
 
 <h3>I love building stuff</h3>
 
