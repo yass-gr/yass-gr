@@ -6,11 +6,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2600&pause=900&color=F2CE99&center=true&vCenter=true&width=850&lines=Hey%2C+I%27m+Yassine+Grairi;Full-stack+dev+from+Guelmim%2FMorocco+%F0%9F%87%B2%F0%9F%87%A6;JS+ecosystem+%2B+design+background;Building+clean%2C+performant+software;I+like+code+that+feels+right" alt="Animated introduction" title="Animated introduction" />
 
-<h3>Building things for the web. One component at a time.</h3>
+<h3>I love building stuff</h3>
 
 <p>
-  I'm a full-stack developer from Guelmim/Morocco with a design background. I work in the JS ecosystem,<br />
-  build clean performant software, and I'm into AI & agentic workflows. Open for freelance.
+  I'm a full-stack developer from Guelmim/Morocco with a design background.<br />
+  I build clean performant software that solves problmes, Open for freelance.
 </p>
 
 <a href="https://github.com/yass-gr">
@@ -37,27 +37,6 @@
 </div>
 
 ---
-
-## `$ whoami`
-
-```yaml
-name: Yassine Grairi
-alias: yass-gr
-from: Morocco 🇲🇦
-role: Full-stack Developer
-ecosystem: JavaScript / TypeScript
-background: Design + Development
-currently:
-  - building full-stack web apps with Node.js, PHP, and modern JS
-  - exploring AI workflows and agentic tooling
-  - designing clean, usable interfaces
-open_to:
-  - freelance projects
-  - interesting collaborations
-  - conversations about code and design
-```
-
-> "First, solve the problem. Then, write the code."
 
 ## Toolbox
 
